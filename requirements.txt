@@ -1,4 +1,4 @@
-aiogram==3.x
-SQLAlchemy==2.x
-sqlite3   # built-in with Python, no need to install
-python-dotenv==1.x   # for environment variables
+aiogram
+SQLAlchemy
+sqlite3 # built-in with Python, no need to install
+python-dotenv
